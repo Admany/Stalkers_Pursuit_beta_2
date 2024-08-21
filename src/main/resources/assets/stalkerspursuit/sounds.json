@@ -1,11 +1,11 @@
 {
   "jumpscare_sound1": {
-    "sounds": ["sounds/jumpscare_sound1"]
+    "sounds": ["stalkerspursuit:sounds/jumpscare_sound1"]
   },
   "jumpscare_sound2": {
-    "sounds": ["sounds/jumpscare_sound2"]
+    "sounds": ["stalkerspursuit:sounds/jumpscare_sound2"]
   },
   "jumpscare_sound3": {
-    "sounds": ["sounds/jumpscare_sound3"]
+    "sounds": ["stalkerspursuit:sounds/jumpscare_sound3"]
   }
 }
